@@ -1,0 +1,5 @@
+flask
+python-google-places
+flask_mongoengine
+geocoder
+folium
